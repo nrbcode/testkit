@@ -1,2 +1,10 @@
 This is a text document for testing git and github.
 This original block of text was added directly to github.
+
+This block of text has been added to a local repository, on my desktop using vim.
+
+The process started with the command:
+>git clone https://github.com/nrbcode/testkit.git
+
+Now I will commit these changes to this local repository.
+Subsequently I will push the updates to the remote repository on github.
